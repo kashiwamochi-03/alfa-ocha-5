@@ -78,7 +78,7 @@ button {
   display: block;
   border: none;
   margin: 0 auto;
-  background-color: #006837;
+  background-color: #8daec7;
   color: #fff;
   width: 287px;
   height: 55px;
@@ -239,7 +239,7 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #39b54a;
+  background-color: #8daec7;
 }
 
 .bg-color--subcolor {
